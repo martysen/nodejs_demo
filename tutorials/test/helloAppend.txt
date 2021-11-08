@@ -1,0 +1,2 @@
+New Hello World generated using writeFile 
+Content appended using appendFile
