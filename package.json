@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/martysen/nodejs_demo/issues"
   },
-  "homepage": "https://github.com/martysen/nodejs_demo#readme"
+  "homepage": "https://github.com/martysen/nodejs_demo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "uuid": "^8.3.2"
+  }
 }
